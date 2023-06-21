@@ -5,10 +5,16 @@
 This application is Just Another Text Editor that functions on a single page, meets all Progressive Web Application (PWA) criteria, and works offline.  JATE will also have the ability to be used outside of the browser after a download to a computer or mobile device.  
 
 ## Installation
+This application utilizes multiple dev dependencies and the following commands will need to be run in the CLI: 
+    
 
 ## Usage
 
+
 ## Deployed Link and Visuals 
+
+## License
+This work in progress is licensed under the MIT License
 
 ## Questions or Comments
 Reach out anytime with questions or comments at simmons1022@yahoo.com or on GitHub at https://github.com/ssimmons122
